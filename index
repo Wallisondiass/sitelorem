@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Home</title>
+    <link rel="icon" type="image/x-icon" href="./img/favicon.png">
+</head>
+<body>
+    <header style="header">
+        <div>
+            <img src="./img/logo1.png" alt="logo1">
+        </div>
+        <div>
+            //lista
+        </div>
+    </header>
+    <section>
+        <div>
+            <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </h1>
+            <P>Eget pharetra nulla quam amet pulvinar enim id. Quam tempor a dui pharetra iaculis. Est arcu, faucibus commodo risus volutpat tincidunt sed. Nascetur odio nisl in at sit placerat vitae, quis mattis. </P>
+        </div>
+        <div>
+            <img src="./img/img1.png" alt="">
+        </div>
+    </section>
+    <section>
+        <Div class="div-block"></Div>
+    </section>
+    <footer>
+
+    </footer>
+</html>
